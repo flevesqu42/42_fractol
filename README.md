@@ -6,10 +6,13 @@ Release date : 04/29/2016
 
 Submit in : one week.
 
-Note :  - Drag and drop.
-        - Multiple colors modifier.
-        - rgb and hsv mode (basicaly on rgb mode).
-        - Personalised algorithm for Buddhabrot-like fractals.
+Note :
+
+	- Drag and drop.
+
+	- Multiple colors modifier.
+
+	- rgb and hsv mode (basicaly on rgb mode).
 
 Language : C
 
