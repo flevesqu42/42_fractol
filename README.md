@@ -4,8 +4,6 @@ Subject : https://github.com/flevesqu42/42_fractol/blob/master/ressources/fract_
 
 Release date : 04/29/2016
 
-Submit in : one week.
-
 Note :
 
 	- Drag and drop.
